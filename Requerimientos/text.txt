@@ -1,0 +1,2 @@
+•	REQ1: La plataforma debe Gestionar cursos virtuales y presenciales- Funcional 
+•	REQ2: La plataforma debe gestionar a los estudiantes inscribirse a cursos tanto presenciales como virtuales. - Funcional
