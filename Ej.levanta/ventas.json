@@ -1,0 +1,30 @@
+[
+    {
+        "fecha": "2025-09-16 14:35:20",
+        "pedido": [
+            "Caf\u00e9",
+            "Galleta"
+        ],
+        "total": 3150.0
+    },
+    {
+        "fecha": "2025-09-16 14:35:48",
+        "pedido": [
+            "Caf\u00e9",
+            "Sandwich",
+            "Jugo",
+            "Galleta"
+        ],
+        "total": 10350.0
+    },
+    {
+        "fecha": "2025-09-16 14:48:47",
+        "pedido": [
+            "Jugo",
+            "Jugo",
+            "Sandwich",
+            "Caf\u00e9"
+        ],
+        "total": 11700.0
+    }
+]

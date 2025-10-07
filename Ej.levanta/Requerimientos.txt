@@ -1,0 +1,46 @@
+1.	El sistema debe mostrar un menú de productos con precios.
+2.	El sistema debe permitir al usuario (cajero) seleccionar varios ítems en un pedido.
+3.	El sistema debe calcular el total del pedido.
+4.	El sistema debe aplicar un descuento del 10% a estudiantes con carné válido.
+5.	El sistema debe emitir un resumen del pedido al finalizar.
+6.	El sistema debe guardar un registro diario de ventas.
+7.	El sistema debe permitir registrar pedidos en un máximo de 4 pasos.
+8.	El sistema debe poder funcionar sin conexión a internet.
+9.	El sistema debe funcionar en Windows y Linux.
+10.	 Sistema debe responder en menos de 1 segundo al listar productos.
+11.	Los datos deben guardarse localmente y no perderse, aunque el programa se cierre accidentalmente (persistencia).
+12.	La interfaz de consola debe ser clara y entendible para personal nuevo.
+13.	La arquitectura debe permitir en el futuro agregar combos y códigos de cupón.
+14.	El almacenamiento debe ser simple, confiable y de bajo consumo de recursos.
+
+Clasificación Requerimientos
+
+Requerimientos funcionales
+1.	El sistema debe mostrar un menú de productos con precios.
+2.	El sistema debe permitir al usuario (cajero) seleccionar varios ítems en un pedido.
+3.	El sistema debe calcular el total del pedido.
+4.	El sistema debe aplicar un descuento del 10% a estudiantes con carné válido.
+5.	El sistema debe emitir un resumen del pedido al finalizar.
+6.	El sistema debe guardar un registro diario de ventas.
+7.	El sistema debe permitir registrar pedidos en un máximo de 4 pasos.
+8.	El sistema debe poder funcionar sin conexión a internet.
+9.	El sistema debe funcionar en Windows y Linux.
+
+Requerimientos No funcionales 
+1.	 Sistema debe responder en menos de 1 segundo al listar productos.
+2.	Los datos deben guardarse localmente y no perderse, aunque el programa se cierre accidentalmente (persistencia).
+3.	La interfaz de consola debe ser clara y entendible para personal nuevo.
+4.	La arquitectura debe permitir en el futuro agregar combos y códigos de cupón.
+5.	El almacenamiento debe ser simple, confiable y de bajo consumo de recursos.
+
+
+Levantamiento de requerimientos 
+Administradora: 
+La Administradora necesita un software que se encargue de enviar productos de forma rápida y sin demoras
+Requisito: El software debe demorar al menos un segundo en responder
+Cajero: Difícilmente nunca se caería porqué no se sabe si se pueda caer la luz o no 
+Requisito: Se necesita Guardar registro
+Estudiante: Necesita aplicar el descuento de 10% 
+Requisito: Se le aplicará el descuento de 10 % a los estudiantes que tengan carné
+Profesor: Necesito que se agrupen los ítems de la Tienda Cafetera
+Requisito: El software tiene la función de escoger varios productos de la tienda Cafetera 
